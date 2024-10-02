@@ -23,9 +23,10 @@
             <version>1.0-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
-</dependencies>
+    </dependencies>
 
     <build>
+        <finalName>fmc-plugin-nukkit</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

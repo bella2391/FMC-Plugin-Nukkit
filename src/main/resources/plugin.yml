@@ -1,0 +1,6 @@
+name: fmc-plugin-nukkit
+main: keyp.forev.ddns.net.fmc.Main
+version: 1.0.0
+api: [1.0.15]
+author: Bella
+description: A simple Nukkit plugin that welcomes players when they join the server.
